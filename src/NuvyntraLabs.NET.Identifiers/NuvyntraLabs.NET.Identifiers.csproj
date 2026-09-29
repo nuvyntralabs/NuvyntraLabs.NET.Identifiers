@@ -8,7 +8,7 @@
     <Description>Validate PAN format, GSTIN checksum, Aadhaar Verhoeff checksum, and IBAN.</Description>
     <PackageTags>nuvyntra;identifiers;pan;gstin;aadhaar;iban</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageProjectUrl>https://github.com/nuvyntralabs/NuvyntraLabs.NET.Identifiers</PackageProjectUrl>
+    <PackageProjectUrl>https://nuvyntralabs.github.io/packages/nuvyntralabs-net-identifiers/</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nuvyntralabs/NuvyntraLabs.NET.Identifiers</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <IsPackable>true</IsPackable>

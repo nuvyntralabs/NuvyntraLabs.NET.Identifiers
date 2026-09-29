@@ -2,7 +2,7 @@
 
 Validate a PAN, a GSTIN checksum, an Aadhaar Verhoeff checksum, or an IBAN.
 
-**Version:** 0.1.0. Not published to nuget.org yet. Do not `dotnet nuget push` from a local clone.
+**Version:** 0.1.1. Not published to nuget.org yet. Do not `dotnet nuget push` from a local clone.
 
 ```bash
 dotnet add package NuvyntraLabs.NET.Identifiers
